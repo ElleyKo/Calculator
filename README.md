@@ -4,7 +4,7 @@ This is a simple calculator which is made with PyQT5
 
 Python 3 packadges that need to be installed:
 -----------------------------------
-- ***pyQt5, pyQt5-tools***
+- pyQt5, pyQt5-tools
 
 
 ### Operations
